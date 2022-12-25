@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemo1604
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning C++ fundamental 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
