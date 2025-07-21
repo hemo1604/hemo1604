@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hemo1604
+- 👋 Hi, I’m Ibrahim Al-shorbagy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ fundamental 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ fundamentals and data Structures, Algorithms, and object-oriented Programming
+- 💞️ I’m looking to collaborate on my first Project for .NET
 - 📫 How to reach me ...
 
 <!---
