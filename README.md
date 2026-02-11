@@ -49,9 +49,9 @@
 <br>
   <br>
   
-[![ibrahim's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![ibrahim's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemo1604&theme=tokyonight)](https://git.io/praveenscience)
 
-| !ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![ibrahim GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemo1604theme=tokyonight) |
+| !ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=hemo1604&show_icons=true&theme=tokyonight) | ![ibrahim GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemo1604theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemo1604&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hemo1604&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
@@ -66,4 +66,4 @@
 
 Credit: [Ibrahim Al_shorbagy](https://github.com/hemo1604)
 
-Last Edited on: 26/02/2025
+Last Edited on: 26/03/2026
