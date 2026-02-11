@@ -122,10 +122,10 @@
 
 ---
 
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+<h5 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+Credit: [Ibrahim Al_shorbagy](https://github.com/Ibrahim Al_shorbagy)
 
 Last Edited on: 26/02/2025
